@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=426x240,NAME="240p"
+https://cdngb196.indihometv.com/joss/134/davinci/chunklist_w1510257145_b494100_sleng.m3u8?enc=&uid=&exp=
+#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
+https://cdngb196.indihometv.com/joss/134/davinci/chunklist_w1510257145_b684100_sleng.m3u8?enc=&uid=&exp=
+#EXT-X-STREAM-INF:BANDWIDTH=1004100,RESOLUTION=960x540,NAME="540p"
+https://cdngb196.indihometv.com/joss/134/davinci/chunklist_w1510257145_b1004100_sleng.m3u8?enc=&uid=&exp=
